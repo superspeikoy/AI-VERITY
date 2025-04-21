@@ -1,0 +1,8 @@
+NewsapiKey = "806895b828b6434f956062124b9f39ef"
+weatherKey = "3b19421957bbaad26c6310e75c70900a"
+openaiKey = "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"
+googleAPIKey = "AIzaSyAFjq1iFkjOm6poONJ1tPELDRmYEjiPfBM"
+auth_token = "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"
+Openai_key = "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"
+Gemini_Key = "AIzaSyD25dqwqSQsLOlGE6hFsHFiqL8qegE7G8w"
+Unsplash_key = "52lSH_6VyYcTtHrw4bexIAvPc5iF83K7GhDPN1MyVC4"
